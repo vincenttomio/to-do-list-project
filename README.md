@@ -66,7 +66,7 @@ The project consists of two main files:
 
 - To run the test cases:
     ```bash
-    python test_project.py  
+    pytest test_project.py  
     ```
 
 ## Certificate of Completion  
